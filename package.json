@@ -1,0 +1,14 @@
+{
+  "name": "fb-bot",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {      
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "request": "^2.65.0"
+  },
+  "scripts": {        
+    "start": "node fb-bot.js"
+  }
+}
